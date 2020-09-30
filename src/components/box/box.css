@@ -1,0 +1,11 @@
+.box-input {
+  height: 40px;
+  width: 100px;
+  margin: 25px;
+  background-color: rgb(228, 198, 203);
+  border-radius: 13px;
+  border: none;
+}
+.box-area {
+  margin: 25px;
+}

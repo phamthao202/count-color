@@ -1,0 +1,29 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-color: rgb(171, 192, 179);
+}
+button {
+  height: 40px;
+  width: 100px;
+  margin: 30px;
+  background-color: pink;
+  border-radius: 13px;
+}
+button:hover{
+ background-color: grey;
+}
+input{
+  height: 40px;
+  width: 150px;
+  margin: 30px;
+  border: 1px solid pink;
+  border-radius: 13px;
+}
+.box-area-1{
+  display: flex;
+  flex-wrap:wrap;
+  justify-items: center; 
+  padding-left: 50px; 
+}
